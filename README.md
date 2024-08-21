@@ -1,8 +1,7 @@
-# React + Vite
+Leo  - Ai web application 
+React Js is used mainly for the build, fetched data through api and collecting it and organising it through steps then displaying it in UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Gemini ai api has been used to fetch data.
 
-Currently, two official plugins are available:
+One video of functionality  is availabe - 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
