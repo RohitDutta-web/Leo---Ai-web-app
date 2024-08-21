@@ -5,3 +5,7 @@ Gemini ai api has been used to fetch data.
 
 One video of functionality  is availabe - 
 
+
+https://github.com/user-attachments/assets/5879916f-c93e-44f6-82f8-36873eb5ef8d
+
+
